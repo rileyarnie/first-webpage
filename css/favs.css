@@ -1,0 +1,26 @@
+body{
+
+font-family: sans-serif;color:white;
+background-image: url("/home/riley/Documents/moringa-school-projects/my-first-website/images/dc-logo (1).jpeg");
+
+
+}
+h5{
+  text-align:left;
+
+}
+em{
+font-weight:bold;
+font-style:normal;
+}
+strong{
+font-weight: normal;
+font-style: italic;
+}
+ol{
+font-size: 20px;
+}
+
+h2{
+
+}
